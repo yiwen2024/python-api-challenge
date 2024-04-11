@@ -14,7 +14,7 @@ As well known, the weather of the places with lower latitude is warmer than it w
 
 2. ADD A .GITIGNORE FILE
 Adding a .gitignore file is to prevent the api keys from being shared with the public. To get started, type git status in the  command line to see a list of all the untracked files. Open the .gitignore file and type the following code on the first line:
- # Adding config.py file
+ Adding config.py file
  api_keys.py
 
 3. INSTRUCTIONS (PART 1-WEATHERPY)
